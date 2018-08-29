@@ -1,0 +1,7 @@
+C:\Users\DANIEL IBANGA\source\repos\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+C:\Users\DANIEL IBANGA\source\repos\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+C:\Users\DANIEL IBANGA\source\repos\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+C:\Users\DANIEL IBANGA\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+C:\Users\DANIEL IBANGA\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL IBANGA\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+C:\Users\DANIEL IBANGA\source\repos\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
