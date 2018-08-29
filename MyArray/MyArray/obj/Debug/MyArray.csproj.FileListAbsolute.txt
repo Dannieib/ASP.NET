@@ -1,0 +1,6 @@
+c:\users\daniel ibanga\source\repos\MyArray\MyArray\bin\Debug\MyArray.exe.config
+c:\users\daniel ibanga\source\repos\MyArray\MyArray\bin\Debug\MyArray.exe
+c:\users\daniel ibanga\source\repos\MyArray\MyArray\bin\Debug\MyArray.pdb
+c:\users\daniel ibanga\source\repos\MyArray\MyArray\obj\Debug\MyArray.csproj.CoreCompileInputs.cache
+c:\users\daniel ibanga\source\repos\MyArray\MyArray\obj\Debug\MyArray.exe
+c:\users\daniel ibanga\source\repos\MyArray\MyArray\obj\Debug\MyArray.pdb
